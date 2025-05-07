@@ -1,3 +1,5 @@
+![My Profile Banner](https://github.com/RayBlaxe/rayblaxe/blob/main/assets/yes.jpeg?raw=true)
+
 # 💫 About Me:
  Hey there!<br><br>✨ Welcome to my GitHub profile! ✨<br><br>🔭 I’m currently working on<br>building a software house 🏢<br><br>👯 I’m looking to collaborate on<br>projects to build experience and portfolio 🤝<br><br>🤝 I’m looking for help with<br>learning big and complex projects 🤔<br><br>🌱 I’m currently learning<br>to deepen my understanding of front-end development ⚛️<br><br>💬 Ask me about<br>anything related to tech 💻<br><br>⚡ Fun fact<br>Besides coding I really enjoy going on adventures with nature 🏞️
 
