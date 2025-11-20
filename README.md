@@ -77,16 +77,15 @@ Currently, I'm growing a small software house and contributing to various web an
 
 ---
 
-# 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rayblaxe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rayblaxe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayblaxe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rayblaxe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🏆 GitHub Trophies
 
----
-[![](https://visitcount.itsvg.in/api?id=rayblaxe&icon=0&color=0)](https://visitcount.itsvg.in)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rayblaxe&theme=juicyfresh&title=Repositories,Commits,PullRequest,Issues,Stars,Followers&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Support
 
