@@ -90,6 +90,7 @@ Currently, I'm growing a small software house and contributing to various web an
 
 ## Support
 
-If you'd like to support my work:
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/raihankh) 
+  If you'd like to support my work:
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/raihankh) 
+
 
