@@ -77,22 +77,19 @@ Currently, I'm growing a small software house and contributing to various web an
 
 ---
 
-## GitHub Stats
-
 # 📊 GitHub Stats:
-!<br/>
-!<br/>
-!
+![](https://github-readme-stats.vercel.app/api?username=rayblaxe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rayblaxe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayblaxe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-!
+![](https://github-profile-trophy.vercel.app/?username=rayblaxe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-!
----
+[![](https://visitcount.itsvg.in/api?id=rayblaxe&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Support
 
 If you'd like to support my work:
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/raihankh) 
 
-**PayPal:** [https://paypal.me/raihankh](https://paypal.me/raihankh)
