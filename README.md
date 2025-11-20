@@ -84,7 +84,7 @@ Currently, I'm growing a small software house and contributing to various web an
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rayblaxe&theme=juicyfresh&title=Repositories,Commits,PullRequest,Issues,Stars,Followers&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rayblaxe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Support
